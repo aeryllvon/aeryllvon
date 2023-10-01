@@ -5,7 +5,7 @@ Data Scientist | Psychometrician
 --------------------------------
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [https://aeryllvon.github.io/portfolio-website](http://linkedin.com/in/aeryllvon)
+* 🖥️  See my portfolio at [GitHub](https://aeryllvon.github.io/portfolio-website)
 * ✉️  You can contact me at [aeryllvon@outlook.com](mailto:aeryllvon@outlook.com)
 
 ### Skills
