@@ -1,4 +1,4 @@
-Hi 👋 My name is Aeryll Burog
+Hi 👋 My name is Aeryll
 =============================
 
 Data Scientist | Psychometrician
